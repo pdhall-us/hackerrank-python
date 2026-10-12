@@ -7,10 +7,10 @@ A structured collection of my solutions to **HackerRank Python problems**, focus
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 2          |
+| 🟢 Easy        | 3          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **2**      |
+| **Total**      | **3**      |
 
 ## 📚 Problems
 
@@ -20,6 +20,7 @@ A structured collection of my solutions to **HackerRank Python problems**, focus
 | --- | --- | --- | --- |
 | 1 | Tuples | TUPLES, HASH, MAP | [View](Easy/tuples) |
 | 2 | Lists | LISTS, INSERT, REMOVE, APPEND, SORT, POP, REVERSE | [View](Easy/lists) |
+| 3 | sWAP cASE | STRINGS, STRING METHODS, SWAPCASE | [View](Easy/swap-case) |
 
 ### 🟡 Medium
 
@@ -38,9 +39,6 @@ hackerrank-python/
 │
 ├── Easy/
 │   ├── tuples/
-│   │   ├── README.md
-│   │   └── solution.py
-│   ├── lists/
 │   │   ├── README.md
 │   │   └── solution.py
 │   └── ...
