@@ -7,10 +7,10 @@ A structured collection of my solutions to **HackerRank Python problems**, focus
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 5          |
+| 🟢 Easy        | 6          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **5**      |
+| **Total**      | **6**      |
 
 ## 📚 Problems
 
@@ -23,6 +23,7 @@ A structured collection of my solutions to **HackerRank Python problems**, focus
 | 3 | sWAP cASE | STRINGS, STRING METHODS, SWAPCASE | [View](Easy/swap-case) |
 | 4 | String Split and Join | STRINGS, SPLIT, JOIN | [View](Easy/string-split-and-join) |
 | 5 | What's Your Name? | STRINGS, PRINT, STRING FORMATTING | [View](Easy/whats-your-name) |
+| 6 | Mutations | STRINGS, IMMUTABILITY, LISTS, SLICING, JOIN | [View](Easy/mutations) |
 
 ### 🟡 Medium
 
