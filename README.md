@@ -7,10 +7,10 @@ A structured collection of my solutions to **HackerRank Python problems**, focus
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 6          |
+| 🟢 Easy        | 7          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **6**      |
+| **Total**      | **7**      |
 
 ## 📚 Problems
 
@@ -24,6 +24,7 @@ A structured collection of my solutions to **HackerRank Python problems**, focus
 | 4 | String Split and Join | STRINGS, SPLIT, JOIN | [View](Easy/string-split-and-join) |
 | 5 | What's Your Name? | STRINGS, PRINT, STRING FORMATTING | [View](Easy/whats-your-name) |
 | 6 | Mutations | STRINGS, IMMUTABILITY, LISTS, SLICING, JOIN | [View](Easy/mutations) |
+| 7 | Find a String | STRINGS, SUBSTRINGS, LOOPS, RANGE, STRING SLICING | [View](Easy/find-a-string) |
 
 ### 🟡 Medium
 
